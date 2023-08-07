@@ -10,8 +10,7 @@ Welcome to the README for the Guess the Number Game project. This project involv
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
@@ -20,6 +19,11 @@ Welcome to the README for the Guess the Number Game project. This project involv
 - Players have a limited number of attempts to guess the number.
 - The game tracks and displays the number of attempts made.
 - A victory message is displayed when the player correctly guesses the number.
+
+## Demo
+
+Check out the live demo of the calculator [here](http://127.0.0.1:5501/index.html).
+
 
 ## Getting Started
 
